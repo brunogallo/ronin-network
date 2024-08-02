@@ -26,5 +26,5 @@ node wallet-import
 promise to make multi transactions at same time.
 implement https://scatter.roninchain.com/ to disperse tokens.
 
-# If you need any help, send me a message
+## If you need any help, send me a message
 <a href="https://discord.gg/rPXc3hURCr" target="_blank"><img src="https://discordapp.com/api/guilds/549714552007295006/widget.png"></a>
